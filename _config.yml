@@ -11,7 +11,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # SNS settings
-RSS: false
+RSS: true
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
 github_username:    yanfuqiang
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一个看起来无趣的人"
+sidebar-about-description: "一个看起来无趣的人--This is not me!"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -82,7 +82,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "翁天信",
+        href: "http://www.dandyweng.com/"
     }
 ]
